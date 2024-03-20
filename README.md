@@ -1,6 +1,6 @@
 # BuildThing™ ️On-premise Server
 
-[![BuildThing](https://buildit.kr/dist/img/icon-40@2x.png)]
+![BuildThing](https://buildit.kr/dist/img/icon-40@2x.png)
 
 BuildThing™ On-premise Server는 BuildThing Gateway와 연동되어 데이터를 데이터베이스에 저장하는 설치형 서버 입니다.
 [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 기반으로 동작하며, 데이터베이스 툴을 통해 데이터베이스([SQLite](https://www.sqlite.org/))에 저장된 센서 데이터를  조회할 수 있습니다.
